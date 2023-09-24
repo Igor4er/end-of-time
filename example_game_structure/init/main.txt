@@ -1,0 +1,4 @@
+name: A text that character says
+name2: Dialogue?
+Text with no comments its a narrator
+:This is user choice:!<go /home/ig4er/end-of-time/example_game_structure/init/storya.txt>Storyline A:!:<go /home/ig4er/end-of-time/example_game_structure/init/storyb.txt>Storyline B
